@@ -1,0 +1,13 @@
+// console.log(Math.hypot(5));
+// console.log(Math.log(5));
+// console.log(Math.max(5,44,445,4,200,446));
+// console.log(Math.min(5,44,445,4,200,446));
+// console.log(Math.pow(10,10));
+// console.log(Math.random());
+// console.log(Math.sign(-21));
+// console.log(Math.round(4.5));
+// console.log(Math.sin(2));
+// console.log(Math.sinh(2));
+// console.log(Math.sqrt(2));
+// console.log(Math.abs(-2));
+// console.log(Math.acos(2/5));
