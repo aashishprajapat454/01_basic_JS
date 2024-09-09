@@ -9,7 +9,26 @@ let myNewArr = myArr.splice(-3,11)
 
 
 // *****************compaireson*********************
-// 0 to other
+// null to other
+console.log("null to other");
+
 console.log(null === 0);
-console.log(null === -0);
 console.log(null === undefined);
+console.log(null === '');
+console.log(null === false);
+console.log(null === true);
+console.log(null == 0);
+console.log(null == undefined); // true
+console.log(null == '');
+console.log(null == false);
+console.log(null == true);
+console.log(null != 0); // true
+console.log(null != undefined);
+console.log(null != ''); //true
+console.log(null != false); // true
+console.log(null != true); // true
+console.log(null !== 0); // true
+console.log(null !== undefined); // true
+console.log(null !== ''); //true
+console.log(null !== false); // true
+console.log();
