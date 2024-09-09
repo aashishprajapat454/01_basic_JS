@@ -5,5 +5,5 @@ for(let i = arr.length; i>=0; i--){
 }
 console.log(Narr);
 // console.log(arr.length);
-let hap = (arr.length)/2
-console.log(hap);
+// let hap = (arr.length)/2
+// console.log(hap);
